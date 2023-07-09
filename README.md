@@ -2,12 +2,12 @@
 
 ### Memory
  - Code Segment
-  - Excutable compiled code
+    - Excutable compiled code
  - Data Segment
-  - Initialzed global and static variables
-  - Non-initialized that
+    - Initialzed global and static variables
+    - Non-initialized that
  - Stack Segment
-  - Stack frames(function call)
+    - Stack frames(function call)
  - Heap Segment
 
 
